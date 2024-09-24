@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+
 mod c2 again
+=======
+c2 modified
+>>>>>>> first
